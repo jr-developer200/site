@@ -1,5 +1,6 @@
 /* global */
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patua+One&display=swap');
 
 .grid-2{
     display: grid;
@@ -15,7 +16,7 @@ body{
 }
 
 h2 {
-    font-family: Courier, 'Roboto', sans-serif;
+    font-family: 'Patua One', cursive, sans-serif;
 }
 
 h2,.white{
@@ -34,7 +35,7 @@ a{
 }
 
 .section-1 p{
-    font-size: 1.rem;
+    font-size: 1.2rem;
     padding-bottom: 10px;
     margin:0;
 }
