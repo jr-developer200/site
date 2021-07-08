@@ -88,3 +88,4 @@ contextweb.com, 562060, DIRECT, 89ff185a4c4e857c
 rhythmone.com, 2147483647, RESELLER, a670c89d4a324e47
 video.unrulymedia.com, 2147483647, RESELLER, a670c89d4a324e47
 improvedigital.com, 1805, DIRECT
+facebook.com, 292762164610462, DIRECT, c3e20eee3f780d68
