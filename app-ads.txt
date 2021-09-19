@@ -89,3 +89,4 @@ rhythmone.com, 2147483647, RESELLER, a670c89d4a324e47
 video.unrulymedia.com, 2147483647, RESELLER, a670c89d4a324e47
 improvedigital.com, 1805, DIRECT
 facebook.com, 292762164610462, DIRECT, c3e20eee3f780d68
+mopub.com, 32fa2cde1307489cb109ba33b80a0d19, DIRECT, 74b46c0ea83967ca
