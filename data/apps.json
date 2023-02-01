@@ -1,44 +1,49 @@
-[
-  {
-    "id":"appbuck3t.youtubenonstopvideopaused",
-    "name":"Non Stop - Goodbye Video paused Alert!",
-    "description":"Kiss the annoying 'Video paused. Continue watching?' confirmation goodbye!",
-    "logo":"https://play-lh.googleusercontent.com/y4gvduURTwEcbOgpruHoe_AewXCs5gKNgH3crerBRwl3-SEAATHrIFWjem_Xf7iZsWk=s180-rw",
-    "sortOrder":0
-  },
-  {
-    "id":"appbuck3t.focusplus",
-    "name":"Focus Plus",
-    "description":"Break Your Phone Addiction, block distractions & Focus on What Really Matters!",
-    "logo":"https://lh3.googleusercontent.com/9uu-dOIhBY7Nhe1zdYg54W4LiwOxqbsqt9YfC6ZUCI1OjxnRmtzlL7lbonVhKXGE_w=s180-rw",
-    "sortOrder":3
-  },
-  {
-    "id":"appbuck3t.whatsappstatussaverdownloader",
-    "name":"Speed Status",
-    "description":"Lightning fast Status Saver & Downloader for WhatsApp",
-    "logo":"https://lh3.googleusercontent.com/mMv-1wDB9VU_03vcgQNs47NghJlz_k347JG5vtSXbcWP1Z8DPu2kh1GXpD5eFGfLug=s180-rw",
-    "sortOrder":1
-  },
-  {
-    "id":"appbuck3t.instagramdownloader.downloadinstagramphotosvideos",
-    "name":"Super Saver",
-    "description":"Download & Repost Instagram Photos & Videos",
-    "logo":"https://lh3.googleusercontent.com/0zLJ9gLsmqMdqIO18mYzKXyh8tVXBf-fFkQ9CCJUD6xsW_1xdifWeQZBphKf23PAe_Y=s180-rw",
-    "sortOrder":2
-  },
-  {
-    "id":"appbuck3t.texttools",
-    "name":"Text Tools",
-    "description":"Stylish fonts & texts for social media & other tools",
-    "logo":"https://lh3.googleusercontent.com/Rqn80J-2IfXRDqtz2A-SL2iSVkwbuw_IiXV9ZduWo1sJZMg5lUluukboVUDl2wIQzbZ2=s180-rw",
-    "sortOrder":4
-  },
-  {
-    "id":"com.appbuck3t.screentime",
-    "name":"Screen Time",
-    "description":"Restrain yourself & Stay focused",
-    "logo":"https://lh3.googleusercontent.com/m--assR4EX339gEn0e71kRHJj0pwyZe_K5A4hr31xsZSpg3_auHvsFnX9LpEQbPXIo8=s180-rw",
-    "sortOrder":5
-  }
-]
+[{
+  "id":"appbuck3t.tinypng.imagecompressor.photominifier",
+  "name":"Tiny Image - Image Compressor",
+  "description":"Make images smaller. Save storage!",
+  "logo":"https://play-lh.googleusercontent.com/x39hYoE1atZccmAX36odug0tcu-e5LnmLsIZRPWuOYRwSp4TfJ3poXuO3TFJhy1ZVQg=s180-rw",
+  "sortOrder":0
+},
+{
+  "id":"appbuck3t.youtubenonstopvideopaused",
+  "name":"Non Stop - Goodbye Video paused Alert!",
+  "description":"Kiss the annoying 'Video paused. Continue watching?' confirmation goodbye!",
+  "logo":"https://play-lh.googleusercontent.com/y4gvduURTwEcbOgpruHoe_AewXCs5gKNgH3crerBRwl3-SEAATHrIFWjem_Xf7iZsWk=s180-rw",
+  "sortOrder":1
+},
+{
+  "id":"appbuck3t.focusplus",
+  "name":"Focus Plus",
+  "description":"Break Your Phone Addiction, block distractions & Focus on What Really Matters!",
+  "logo":"https://lh3.googleusercontent.com/9uu-dOIhBY7Nhe1zdYg54W4LiwOxqbsqt9YfC6ZUCI1OjxnRmtzlL7lbonVhKXGE_w=s180-rw",
+  "sortOrder":4
+},
+{
+  "id":"appbuck3t.whatsappstatussaverdownloader",
+  "name":"Speed Status",
+  "description":"Lightning fast Status Saver & Downloader for WhatsApp",
+  "logo":"https://lh3.googleusercontent.com/mMv-1wDB9VU_03vcgQNs47NghJlz_k347JG5vtSXbcWP1Z8DPu2kh1GXpD5eFGfLug=s180-rw",
+  "sortOrder":2
+},
+{
+  "id":"appbuck3t.instagramdownloader.downloadinstagramphotosvideos",
+  "name":"Super Saver",
+  "description":"Download & Repost Instagram Photos & Videos",
+  "logo":"https://lh3.googleusercontent.com/0zLJ9gLsmqMdqIO18mYzKXyh8tVXBf-fFkQ9CCJUD6xsW_1xdifWeQZBphKf23PAe_Y=s180-rw",
+  "sortOrder":3
+},
+{
+  "id":"appbuck3t.texttools",
+  "name":"Text Tools",
+  "description":"Stylish fonts & texts for social media & other tools",
+  "logo":"https://lh3.googleusercontent.com/Rqn80J-2IfXRDqtz2A-SL2iSVkwbuw_IiXV9ZduWo1sJZMg5lUluukboVUDl2wIQzbZ2=s180-rw",
+  "sortOrder":5
+},
+{
+  "id":"com.appbuck3t.screentime",
+  "name":"Screen Time",
+  "description":"Restrain yourself & Stay focused",
+  "logo":"https://lh3.googleusercontent.com/m--assR4EX339gEn0e71kRHJj0pwyZe_K5A4hr31xsZSpg3_auHvsFnX9LpEQbPXIo8=s180-rw",
+  "sortOrder":6
+}]
