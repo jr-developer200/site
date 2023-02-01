@@ -13,7 +13,7 @@ My name is Manoj and I design and develope Android applications. My focus is cre
 Projects
 --------
 
-[Ad Skipper for YouTube - Skip & mute YouTube ads automatically](https://ad-skipper.online)
+[Tiny Image - Image Compressor](https://play.google.com/store/apps/details?id=appbuck3t.tinypng.imagecompressor.photominifier)
 
 [Screen Time - Restrain yourself & Stay focused](https://play.google.com/store/apps/details?id=com.appbuck3t.screentime) 
 
