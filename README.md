@@ -1,5 +1,3 @@
-#AppBuck3t
-
 AppBuck3t
 ---------
 
