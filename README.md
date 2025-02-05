@@ -25,3 +25,9 @@ Contact
 -------
 
 [jr.developer200@gmail.com](mailto:jr.developer200@gmail.com)
+
+
+Website
+-------
+
+[https://everyday-tech.net/](https://everyday-tech.net/)
